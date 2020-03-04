@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.list-view .cell 
+{
+    -fx-font: 14px "Serif";
+    -fx-padding: 10;
+}
+
+.text-area
+{
+    -fx-font: 16px "Calibri";
+    -fx-padding: 10;
+}
